@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdbirlikci
+- 👋 Hi, I’m Deniz
 - 👀 I’m interested in Blockchain technology, Artificial Intelligence, and Computer Vision
 - 🌱 I’m currently learning Artificial Intelligence as an Undergrad at Carnegie Mellon
 - 💞️ I’m looking to collaborate on open source projects
